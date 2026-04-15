@@ -6,7 +6,9 @@ url: "https://mikasa-ack0x.github.io"
 github:
   username: mikasa-ack0x
 
-avatar: /assets/img/avatar.jpeg
-
 timezone: Asia/Kolkata
 lang: en
+
+author:
+  name: 0xMikasa
+  avatar: /assets/img/avatar.jpeg
