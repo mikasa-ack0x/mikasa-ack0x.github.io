@@ -11,4 +11,4 @@ lang: en
 
 author:
   name: 0xMikasa
-  avatar: /assets/img/avatar.jpeg
+  avatar: "/assets/img/avatar.jpeg"
