@@ -1,12 +1,12 @@
-title: 0xMikasa                       # your blog name
-tagline: Breaking things, legally.   # your subtitle
+title: 0xMikasa
+tagline: Breaking things, legally.
 description: Security writeups, HTB machines, and notes from the field.
-url: "https://mikasa-ack0x.github.io/"
+url: "https://mikasa-ack0x.github.io"
 
 github:
   username: mikasa-ack0x
 
-avatar: /assets/img/avatar.jpeg       # add a photo later
+avatar: /assets/img/avatar.jpeg
 
 timezone: Asia/Kolkata
 lang: en
