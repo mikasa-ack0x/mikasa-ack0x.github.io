@@ -16,7 +16,8 @@ If it saves you time, it did its job.
 
 ---
 
+
 ## 📫 Connect
 
-- GitHub: https://github.com/mikasa-ack0x  
-- LinkedIn: https://www.linkedin.com/in/ritux-ace/
+<i class="fab fa-github"></i> [GitHub](https://github.com/mikasa-ack0x)  
+<i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/ritux-ace/)
