@@ -2,7 +2,7 @@
 title: "Nmap — Post Discovery | Hack The Box (HTB)"
 date: 2026-04-16 00:00:00 +0530
 categories: [Enumeration, Tools]
-permalink: /posts/network-enumeration-nmap/
+permalink: /posts/nmap-post-discovery/
 tags: [nmap, network, htb, pentesting, enumeration, port-discovery]
 ---
 
@@ -252,4 +252,4 @@ sudo nmap <target> -sV -Pn -n --disable-arp-ping -p 445 --reason
 
 ---
 
-*Written as part of my CPTS prep on Hack The Box. Feedback welcome — find me on [LinkedIn](#) or drop a comment below.*
+*HTB Academy — CPTS module notes. All scans performed on dedicated lab machines.*
