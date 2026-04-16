@@ -2,6 +2,7 @@
 title: "Nmap — Post Discovery | Hack The Box (HTB)"
 date: 2026-04-16 00:00:00 +0530
 categories: [Enumeration, Tools]
+permalink: /posts/network-enumeration-nmap/
 tags: [nmap, network, htb, pentesting, enumeration, port-discovery]
 ---
 
